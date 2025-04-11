@@ -17,7 +17,17 @@ Skin-Cancer-Detection-System-ML_Project
 6. app.py                   # Main app file (Flask-based web app)
 7.requirements.txt         # Python dependencies
 8. README.md                # Project documentation
+```
+bash
+├── dataset/             # Main script for detection
+├── models/              # Trained models and architecture
+└── notebooks/           # Jupyter Notebooks for EDA, training, and testing
+├── static/              # Static files (for web interface, if any)
+└── templates/           # HTML templates (if Flask/Django is used)
+└── app.py               # Main app file (Flask-based web app)
+└── requirements.txt     #Python dependencies
 
+```
 
 
 ## 🚀 Features
@@ -65,8 +75,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 3. **Install dependencies**
 
 ```bash
-bash
-CopyEdit
 pip install -r requirements.txt
 
 ```
@@ -74,8 +82,6 @@ pip install -r requirements.txt
 4. **Run the app**
 
 ```bash
-bash
-CopyEdit
 python app.py
 
 ```
