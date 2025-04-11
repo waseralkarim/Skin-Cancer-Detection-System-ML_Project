@@ -15,7 +15,7 @@ bash
 ├── static/              # Static files (for web interface, if any)
 ├── templates/           # HTML templates (if Flask/Django is used)
 ├── app.py               # Main app file (Flask-based web app)
-├── requirements.txt     #Python dependencies
+├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
 
 ```
