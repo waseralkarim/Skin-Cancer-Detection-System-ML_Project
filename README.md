@@ -73,12 +73,6 @@ python app.py
 
 Open your browser and go to `http://127.0.0.1:5000` to view the web interface.
 
-## 📈 Results
-
-- Accuracy: ~XX% (update with actual result)
-- Precision, Recall, F1 Score included in evaluation notebook
-- Confusion matrix and ROC curve for visualization
-
 ## ✅ Future Improvements
 
 - Support for multi-class classification
