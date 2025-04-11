@@ -8,7 +8,16 @@ Skin cancer is one of the most common forms of cancer worldwide. Early detection
 
 ## 📂 Project Structure
 
-Skin-Cancer-Detection-System-ML_Project/ │ ├── dataset/ # Contains image data for training/testing ├── models/ # Trained models and architecture ├── notebooks/ # Jupyter Notebooks for EDA, training, and testing ├── static/ # Static files (for web interface, if any) ├── templates/ # HTML templates (if Flask/Django is used) ├── app.py # Main app file (Flask-based web app) ├── requirements.txt # Python dependencies └── README.md # Project documentation
+Skin-Cancer-Detection-System-ML_Project/
+├── dataset/                 # Contains image data for training/testing
+├── models/                  # Trained models and architecture
+├── notebooks/               # Jupyter Notebooks for EDA, training, and testing
+├── static/                  # Static files (for web interface, if any)
+├── templates/               # HTML templates (if Flask/Django is used)
+├── app.py                   # Main app file (Flask-based web app)
+├── requirements.txt         # Python dependencies
+└── README.md                # Project documentation
+
 
 
 ## 🚀 Features
